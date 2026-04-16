@@ -15,4 +15,18 @@
     <img src="assets/images/tools.png" width="20" /> <strong>Workspace & Database:</strong>
   </p>
   <img src="https://skillicons.dev/icons?i=sqlite,windows,github,vscode,git,npm,postman&theme=dark" />
+
 </div>
+
+<div align="center">
+  <h2>
+    <img src="assets/images/stats.png" alt="Wakatime" width="20" height="20" />
+    Wakatime Stats
+  </h2>
+</div>
+
+<!--START_SECTION:waka-->
+```txt
+No activity tracked yet
+```
+<!--END_SECTION:waka-->
